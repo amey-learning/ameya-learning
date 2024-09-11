@@ -23,12 +23,10 @@ Gaining proficiency in cloud technologies such as Firebase and AWS
 Solving programming challenges in C, C++, and DSA 
 Building exciting projects using Dart and Flutter 
 Learning and applying web development essentials
+
 📬 Let’s Connect:
 I’m always eager to connect with fellow developers and enthusiasts. Feel free to reach out if you're interested in collaborating on projects, sharing insights, or discussing software development. 🤝
 
 📧 Email: ameya.flutterdeveloper@gmail.com
 
-<!---
-ameya-learning/ameya-learning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
